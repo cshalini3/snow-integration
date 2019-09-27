@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Integrate snow with gitlab Table" max_length="40" name="x_blglp_integrate_snow_with_gitlab_table" type="collection"/>
+</database>
