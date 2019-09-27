@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Integrate snow with gitlab Table" language="en" table="x_blglp_integrate_snow_with_gitlab_table">
+    <sys_documentation element="" label="testing snow integration1" language="en" table="x_blglp_integrate_testing_snow_integration1">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Integrate snow with gitlab Table</label>
+            <label>testing snow integration1</label>
             <language>en</language>
-            <name>x_blglp_integrate_snow_with_gitlab_table</name>
-            <plural>Integrate snow with gitlab Tables</plural>
+            <name>x_blglp_integrate_testing_snow_integration1</name>
+            <plural>testing snow integration1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>15800210</sys_created_by>
-            <sys_created_on>2019-09-27 12:24:00</sys_created_on>
+            <sys_created_on>2019-09-27 13:07:41</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>c34cfb47dbc808544a5f06e2ca96194f</sys_id>
+            <sys_id>ae7dbb8bdbc808544a5f06e2ca96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Integrate snow with gitlab Table</sys_name>
+            <sys_name>testing snow integration1</sys_name>
             <sys_package display_value="Integrate snow with gitlab" source="x_blglp_integrate">46733f83db8808544a5f06e2ca961987</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Integrate snow with gitlab">46733f83db8808544a5f06e2ca961987</sys_scope>
-            <sys_update_name>sys_documentation_x_blglp_integrate_snow_with_gitlab_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_blglp_integrate_testing_snow_integration1__en</sys_update_name>
             <sys_updated_by>15800210</sys_updated_by>
-            <sys_updated_on>2019-09-27 12:24:00</sys_updated_on>
+            <sys_updated_on>2019-09-27 13:07:41</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
